@@ -1,0 +1,2 @@
+Essa é uma a nossa segunda mensagem escrita pelo módulo fs!
+Vamo que deu certo de mais!
